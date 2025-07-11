@@ -4,62 +4,62 @@ import java.util.Arrays;
 
 public class JavaTutorials {
     public static void main(String[] args) {
-        /*Arrays.sort()
-        this.
-        super
-        break continue return
+        /*Arrays.sort()-done
+        this.-done
+        super-done
+        break continue return-done
         optional
-        primitive type
-        wrapper class
-        Random
-        Math
-        %s %d %f printf()
-        final
-        static
-        decoder
-        encoder
-        instanceOf
-        public private protected
-        String
-        StringBuilder
-        StringBuffer
-        StringTokenizer
-        Enum
-        Multithread
+        primitive type-done
+        wrapper class-done
+        Random-done
+        Math-done²³
+        %s %d %f printf()-done
+        final-done
+        static-done
+        decoder-done
+        encoder-done
+        instanceOf-done
+        public private protected-done
+        String-done
+        StringBuilder-done
+        StringBuffer-done
+        StringTokenizer-done
+        Enum-DONE
+        Multithread-DONE
 
-        S.O.L.I.D
-        KISS
-        DRY
-        MONAD
-        List Set Map
-        List: LinkedList ArrayList
-        Generic <>
-        Iterator
-        OOP
-        interface
-        abstract
-        inheritance
+        S.O.L.I.D-DONE
+        KISS-DONE
+        DRY-DONE
+        MONAD-DONE
+        List Set Map-done
+        List: LinkedList ArrayList-done
+        Generic <>-done
+        Iterator -done
+        OOP-done
+        interface-done
+        abstract-done
+        inheritance-done
 
-        UML - + __
-        class
-        POJO
-        Bean
-        Serialisation
-        IO
-        JAR WAR
-        server
+        UML - + __-DONE
+        class-done
+        POJO-DONE
+        Bean-DOONE
+        Serialisation-DONE
+        IO-done
+        JAR WAR-DONE
+        server-DONE
 
 
-        constructor
-        exception
-        error
+        constructor-done
+        exception-DONE
+        error-done
 
-        Java 8 : stream, map,filter,sort
-        Optional
-        Lambda Expression
-        Method References ::
+        Java 8 : stream, map,filter,sort-done
+        Optional-done
+        Lambda Expression-done
+        Method References ::-done
 
-        D.P.--design pattern--
+        D.P.--design pattern--done
 
 */
 
