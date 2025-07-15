@@ -1,14 +1,15 @@
-package com.ayhanunlu.alternative;
+package com.ayhanunlu.qualifier;
 
-import javax.enterprise.inject.Alternative;
 
-@Alternative
+import javax.enterprise.inject.Default;
+
+@Default
 public class Boss1 implements IBoss {
 
     //@Alternative: At a specific time only one alternative works and the rest inactive
     @Override
     public String version(String data) {
-        return "Boss 1 Version: " + data;
+        return "Default Boss 1 Version: " + data;
     }
 
 }
