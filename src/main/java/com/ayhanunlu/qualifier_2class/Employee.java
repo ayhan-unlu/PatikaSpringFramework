@@ -1,4 +1,4 @@
-package com.ayhanunlu.qualifier;
+package com.ayhanunlu.qualifier_2class;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;
@@ -10,7 +10,7 @@ public class Employee {
 
     //Codes that will work on default
     @Inject
-    @QualifierMultiple // now uses the codes that qualifier multiple annotation produces
+    @QualifierMultiple_2class // now uses the codes that qualifier multiple annotation produces
     private IBoss iBoss;
 
     //No argument constructor

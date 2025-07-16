@@ -1,4 +1,4 @@
-package com.ayhanunlu.qualifier;
+package com.ayhanunlu.qualifier_3class;
 
 public interface IBoss {
 
