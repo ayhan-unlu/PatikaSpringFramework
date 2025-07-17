@@ -11,9 +11,14 @@
         <class>com.ayhanunlu.alternative.Boss2</class>
     </alternatives>
 
-
     <!--    <interceptors>-->
     <interceptors>
         <class>com.ayhanunlu.aop.interceptor.InterceptorRoadCutMainJob</class>
     </interceptors>
+
+
+    <!--    <decorators>-->
+    <decorators>
+        <class>com.ayhanunlu.aop.decorator.HomeDecorator</class>
+    </decorators>
 </beans>
