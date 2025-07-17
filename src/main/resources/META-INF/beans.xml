@@ -3,10 +3,17 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
                         http://xmlns.jcp.org/xml/ns/javaee/beans_2_0.xsd"
-        bean-discovery-mode="all">
+       bean-discovery-mode="all">
 
+    <!--    <alternatives>-->
     <alternatives>
-<!--        <class>com.ayhanunlu.alternative.Boss1</class>-->
+        <!--        <class>com.ayhanunlu.alternative.Boss1</class>-->
         <class>com.ayhanunlu.alternative.Boss2</class>
     </alternatives>
+
+
+    <!--    <interceptors>-->
+    <interceptors>
+        <class>com.ayhanunlu.aop.interceptor.InterceptorRoadCutMainJob</class>
+    </interceptors>
 </beans>
